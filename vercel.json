@@ -1,7 +1,8 @@
 {
   "functions": {
     "api": {
-      "handler": "app.server"
+      "runtime": "Python3.12.4",
+      "src": "app.py"
     }
   }
 }
